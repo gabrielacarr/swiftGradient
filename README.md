@@ -9,4 +9,4 @@
 
 Feel free to check it out, here's a preview:
 
-
+[demo](https://github.com/gabrielacarr/swiftGradient/blob/main/demo/Assets.xcassets/simulatorPreview.imageset/simulatorPreview.png?raw=true)
