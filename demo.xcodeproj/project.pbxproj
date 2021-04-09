@@ -20,6 +20,7 @@
 		5C4973B22620D3F200405F85 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5C4973B52620D3F200405F85 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		5C4973B72620D3F200405F85 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5C4973BE2620EC8100405F85 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.markdown; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -36,6 +37,7 @@
 		5C4973A22620D3F100405F85 = {
 			isa = PBXGroup;
 			children = (
+				5C4973BE2620EC8100405F85 /* README.md */,
 				5C4973AD2620D3F100405F85 /* demo */,
 				5C4973AC2620D3F100405F85 /* Products */,
 			);

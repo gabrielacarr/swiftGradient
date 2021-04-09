@@ -8,7 +8,6 @@
 import SwiftUI
 
 
-
 struct GradientText: View {
     let text: Text
     let gradient: LinearGradient
